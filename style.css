@@ -1,0 +1,131 @@
+body {
+    font-family: 'Poppins', serif;
+}
+
+#bold {
+    font-weight: bold;
+}
+
+#section-title {
+    font-size: 24px;
+    margin-bottom: 15px;
+    text-align: left;
+    font-weight: bold;
+}
+
+#line-separator {
+    margin-top: 35px;;
+    border-top: 2px solid #BBBBBB;
+}
+
+#italic {
+    font-style: italic;
+}
+
+.item {
+    vertical-align: top;
+    display: flex;
+    text-align: left;
+    margin: 20px;
+}
+
+.item img {
+    width: 320px;
+    height: 220px;
+    object-fit: contain;
+}
+
+.item .caption {
+    font-size: 18px;
+}
+
+
+
+.winner {
+    display: inline-block;
+    border: 1px solid #0000FF;
+}
+
+.winner-caption {
+    text-align: center;
+    font-weight: bold;
+    color: #0000FF;
+    font-size: 18px;
+}
+
+/* Header */
+.header {
+    position: fixed;
+    background-color: #2C4762;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-top-color: #BBBBBB;
+    border-bottom-color: #BBBBBB;
+}
+.header .potrait {
+    display: flex;
+    left: 1000;
+    width: 150px;
+}
+.header .name {
+    color: #A1ACD1;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.header .text {
+    color: #A1ACD1;
+    display: flex;
+}
+
+/* Event Information section */
+.eventinfo {
+    margin-top: 220px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.eventinfo h1 {
+    text-align: left;
+    margin-bottom: 3px;
+    font-weight: bold;
+    font-size: 28px;
+
+}
+.eventinfo .date {
+    font-size: 15px;
+}
+
+/* Education section */
+.education {
+    margin-top: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+/* Actor section */
+.experience {
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+
+
+/* Other Categories */
+.other {
+    margin-top: 5px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.bulletin {
+    font-size: 16px;
+}
