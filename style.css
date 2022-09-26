@@ -73,9 +73,9 @@ body {
 }
 .header .name {
     color: #A1ACD1;
-    position: absolute;
-    top: 20%;
-    left: 35%;
+    position: fixed;
+    top: 5%;
+    left: 32%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     font-weight: bold;
