@@ -75,7 +75,7 @@ body {
     color: #A1ACD1;
     position: absolute;
     top: 20%;
-    left: 20%;
+    left: 35%;
     transform: translate(-50%, -50%);
     font-size: 40px;
     font-weight: bold;
@@ -103,22 +103,12 @@ body {
     font-size: 15px;
 }
 
-/* Education section */
-.education {
-    margin-top: 25px;
-    margin-left: 15px;
-    margin-right: 15px;
-}
-
-
-/* Actor section */
-.experience {
+/* section */
+.section {
     margin-top: 5px;
     margin-left: 15px;
     margin-right: 15px;
 }
-
-
 
 /* Other Categories */
 .other {
