@@ -6,9 +6,6 @@ body {
     font-weight: bold;
 }
 
-#italic {
-    font-style: italic;
-}
 
 .item {
     vertical-align: top;
@@ -21,24 +18,6 @@ body {
     width: 320px;
     height: 220px;
     object-fit: contain;
-}
-
-.item .caption {
-    font-size: 18px;
-}
-
-
-
-.winner {
-    display: inline-block;
-    border: 1px solid #0000FF;
-}
-
-.winner-caption {
-    text-align: center;
-    font-weight: bold;
-    color: #0000FF;
-    font-size: 18px;
 }
 
 /* Header */
@@ -69,11 +48,6 @@ body {
     font-weight: bold;
 }
 
-.header .text {
-    color: #A1ACD1;
-    display: flex;
-}
-
 /* Event Information section */
 .eventinfo {
     margin-top: 220px;
@@ -87,9 +61,6 @@ body {
     font-size: 28px;
 
 }
-.eventinfo .date {
-    font-size: 15px;
-}
 
 /* section */
 .section {
@@ -98,12 +69,6 @@ body {
     margin-right: 15px;
 }
 
-/* Other Categories */
-.other {
-    margin-top: 5px;
-    margin-left: 15px;
-    margin-right: 15px;
-}
 .bulletin {
     font-size: 16px;
 }
