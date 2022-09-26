@@ -13,11 +13,6 @@ body {
     font-weight: bold;
 }
 
-#line-separator {
-    margin-top: 35px;;
-    border-top: 2px solid #BBBBBB;
-}
-
 #italic {
     font-style: italic;
 }
